@@ -39,7 +39,7 @@ module.exports = {
     contentBase: path.resolve(__dirname, "./app"),
     historyApiFallback: true,
     inline: true,
-    host: "demo-game-island.vercel.app",
+    host: "localhost",
     port: 2108,
     open: true,
     overlay: {
