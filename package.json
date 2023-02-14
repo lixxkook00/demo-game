@@ -11,6 +11,9 @@
     "dev": "webpack-dashboard -m -c green -t react -- webpack serve",
     "format": "prettier --write ."
   },
+  "engines": {
+    "node": "16.x"
+  },
   "author": "",
   "license": "ISC",
   "keywords": [],
